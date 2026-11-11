@@ -1,6 +1,6 @@
 # Hi, I'm Anwar 👋
 
-Computer Science student at **Brunel University London**, interested in software and web development.
+Computer Science student at **Brunel University London**, interested in software development and cyber security.
 
 ## What I'm doing
 - 🎓 Studying for a BSc in Computer Science
